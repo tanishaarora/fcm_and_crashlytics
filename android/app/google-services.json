@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "424870475731",
+    "project_id": "fcm-and-crashlytics",
+    "storage_bucket": "fcm-and-crashlytics.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424870475731:android:bd0fb1f0f140a6effc2126",
+        "android_client_info": {
+          "package_name": "com.fcm.crashlytics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424870475731-gjlg74gd880ielcgq476p3qg4444fsak.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3ZEH4A43gVjVKsCtsk0FjBhEBjb1PYGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "424870475731-gjlg74gd880ielcgq476p3qg4444fsak.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
